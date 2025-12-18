@@ -33,28 +33,34 @@ The data used in this project comes from **InsideAirbnb**. The following cities 
 ## Expected Data Folder Structure
 When running the notebook locally or in Google Colab, the data should be organized as follows:
 
-airbnb_data/
 austin_2024-12-14/
 listings.csv.gz
 calendar.csv.gz
+
 austin_2025-03-06/
 listings.csv.gz
 calendar.csv.gz
+
 chicago_2024-12-18/
 listings.csv.gz
 calendar.csv.gz
+
 chicago_2025-03-11/
 listings.csv.gz
 calendar.csv.gz
+
 santa_cruz_2025-03-28/
 listings.csv.gz
 calendar.csv.gz
+
 santa_cruz_2025-12-31/
 listings.csv.gz
 calendar.csv.gz
+
 washington_dc_2025-03-13/
 listings.csv.gz
 calendar.csv.gz
+
 washington_dc_2025-12-18/
 listings.csv.gz
 calendar.csv.gz
