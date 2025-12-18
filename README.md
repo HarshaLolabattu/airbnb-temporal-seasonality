@@ -58,3 +58,24 @@ calendar.csv.gz
 washington_dc_2025-12-18/
 listings.csv.gz
 calendar.csv.gz
+
+
+
+
+## Modeling and Outputs
+
+Part 2: Exploratory seasonality analysis for price and booking probability
+
+Part 3: Temporal train/validation/test split (Jan–Sep / Oct–Nov / Dec–Feb)
+
+Part 4:
+
+XGBoost Regressor and Classifier
+
+Neural Network Regressor and Classifier
+
+TensorBoard logging and screenshots
+
+Model comparison and interpretation
+
+
